@@ -1,2 +1,5 @@
-# texas-sales-tax-revenue-forecasting
-R-based Texas sales-tax forecasting project comparing ETS, seasonal ARIMA, and VAR models with anomaly adjustment, six-month holdout validation, 30-month forecasts, and Comptroller benchmark comparison.
+# Code
+
+- `project_analysis_transcribed_from_submission.R`: transcription of the Group 17 code appendix PDF.
+- `project_analysis_portable.R`: GitHub-oriented version using repository-relative paths and safely skipping the VAR block when the missing external inputs are absent.
+- `instructor_supplied/Sales_Tax_Adjust.R`: original class-provided holiday-adjustment script, retained separately for attribution.
